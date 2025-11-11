@@ -12,12 +12,12 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/devdraft-go/internal/apijson"
-	"github.com/stainless-sdks/devdraft-go/internal/apiquery"
-	shimjson "github.com/stainless-sdks/devdraft-go/internal/encoding/json"
-	"github.com/stainless-sdks/devdraft-go/internal/requestconfig"
-	"github.com/stainless-sdks/devdraft-go/option"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/apijson"
+	"github.com/devdraftengineer/devdraft-go/internal/apiquery"
+	shimjson "github.com/devdraftengineer/devdraft-go/internal/encoding/json"
+	"github.com/devdraftengineer/devdraft-go/internal/requestconfig"
+	"github.com/devdraftengineer/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 )
 
 // V0InvoiceService contains methods and other services that help with interacting

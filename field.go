@@ -1,7 +1,7 @@
 package devdraft
 
 import (
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 	"io"
 	"time"
 )

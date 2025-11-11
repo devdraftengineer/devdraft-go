@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/devdraft-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/encoding/json/sentinel"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 	"reflect"
 	"slices"
 	"testing"

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 )
 
 type Struct struct {

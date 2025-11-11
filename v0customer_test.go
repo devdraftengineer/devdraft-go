@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/devdraft-go"
-	"github.com/stainless-sdks/devdraft-go/internal/testutil"
-	"github.com/stainless-sdks/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go"
+	"github.com/devdraftengineer/devdraft-go/internal/testutil"
+	"github.com/devdraftengineer/devdraft-go/option"
 )
 
 func TestV0CustomerNewWithOptionalParams(t *testing.T) {
