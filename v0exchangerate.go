@@ -8,11 +8,11 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/stainless-sdks/devdraft-go/internal/apijson"
-	"github.com/stainless-sdks/devdraft-go/internal/apiquery"
-	"github.com/stainless-sdks/devdraft-go/internal/requestconfig"
-	"github.com/stainless-sdks/devdraft-go/option"
-	"github.com/stainless-sdks/devdraft-go/packages/respjson"
+	"github.com/devdraftengineer/devdraft-go/internal/apijson"
+	"github.com/devdraftengineer/devdraft-go/internal/apiquery"
+	"github.com/devdraftengineer/devdraft-go/internal/requestconfig"
+	"github.com/devdraftengineer/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go/packages/respjson"
 )
 
 // V0ExchangeRateService contains methods and other services that help with

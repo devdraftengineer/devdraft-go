@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/devdraft-go/internal/encoding/json/sentinel"
+	"github.com/devdraftengineer/devdraft-go/internal/encoding/json/sentinel"
 	"reflect"
 )
 

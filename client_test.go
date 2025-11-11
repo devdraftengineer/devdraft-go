@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/devdraft-go"
-	"github.com/stainless-sdks/devdraft-go/internal"
-	"github.com/stainless-sdks/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go"
+	"github.com/devdraftengineer/devdraft-go/internal"
+	"github.com/devdraftengineer/devdraft-go/option"
 )
 
 type closureTransport struct {

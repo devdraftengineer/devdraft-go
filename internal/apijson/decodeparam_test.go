@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/devdraft-go/internal/apijson"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/apijson"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 	"reflect"
 	"testing"
 )

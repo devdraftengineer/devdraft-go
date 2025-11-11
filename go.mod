@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/devdraft-go
+module github.com/devdraftengineer/devdraft-go
 
 go 1.22
 
