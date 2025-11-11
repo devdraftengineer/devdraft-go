@@ -12,11 +12,11 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/stainless-sdks/devdraft-go/internal/apiform"
-	"github.com/stainless-sdks/devdraft-go/internal/apiquery"
-	"github.com/stainless-sdks/devdraft-go/internal/requestconfig"
-	"github.com/stainless-sdks/devdraft-go/option"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/apiform"
+	"github.com/devdraftengineer/devdraft-go/internal/apiquery"
+	"github.com/devdraftengineer/devdraft-go/internal/requestconfig"
+	"github.com/devdraftengineer/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 )
 
 // V0ProductService contains methods and other services that help with interacting

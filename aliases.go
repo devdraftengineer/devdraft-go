@@ -3,8 +3,8 @@
 package devdraft
 
 import (
-	"github.com/stainless-sdks/devdraft-go/internal/apierror"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/apierror"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 )
 
 // aliased to make [param.APIUnion] private when embedding

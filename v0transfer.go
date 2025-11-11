@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"slices"
 
-	"github.com/stainless-sdks/devdraft-go/internal/apijson"
-	"github.com/stainless-sdks/devdraft-go/internal/requestconfig"
-	"github.com/stainless-sdks/devdraft-go/option"
-	"github.com/stainless-sdks/devdraft-go/packages/param"
+	"github.com/devdraftengineer/devdraft-go/internal/apijson"
+	"github.com/devdraftengineer/devdraft-go/internal/requestconfig"
+	"github.com/devdraftengineer/devdraft-go/option"
+	"github.com/devdraftengineer/devdraft-go/packages/param"
 )
 
 // V0TransferService contains methods and other services that help with interacting

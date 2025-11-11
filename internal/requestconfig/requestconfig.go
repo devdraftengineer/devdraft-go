@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/devdraft-go/internal"
-	"github.com/stainless-sdks/devdraft-go/internal/apierror"
-	"github.com/stainless-sdks/devdraft-go/internal/apiform"
-	"github.com/stainless-sdks/devdraft-go/internal/apiquery"
+	"github.com/devdraftengineer/devdraft-go/internal"
+	"github.com/devdraftengineer/devdraft-go/internal/apierror"
+	"github.com/devdraftengineer/devdraft-go/internal/apiform"
+	"github.com/devdraftengineer/devdraft-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
